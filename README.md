@@ -5,3 +5,6 @@ Features:
 * (Messy) Code for understanding S2C Packets
 * IP Queue
 * Grabbing Proxies from URLs
+
+## TODO
+- [ ] Fix potential bug with packet parsing
